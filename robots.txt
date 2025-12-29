@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://deannadimonte.github.io/sitemap.xml
+Sitemap: https://rgbprocessing.github.io/sitemap.xml
