@@ -6,7 +6,7 @@
     - name: E-mail
       value: '<a href="mailto:ded@u.northwestern.edu">ded@u.northwestern.edu</a>'
     - name: LinkedIn
-      value: "[LinkedIn](https://www.linkedin.com/in/deanna-dimonte/)"
+      value: '<a href="https://www.linkedin.com/in/deanna-dimonte/">LinkedIn</a>'
     - name: Summary
       value: PhD candidate in Electrical Engineering specializing in image processing, machine learning, and AI ethics. Motivated to improve the world by enhancing human interactivity with digital media and passionate about contributing to interdisciplinary projects that address societal challenges and create meaningful, lasting impact.
 
@@ -17,11 +17,12 @@
       institution: Northwestern University, Evanston, IL, USA
       year: Current
     - title: MS in Electrical Engineering
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      institution: Northwestern University, Evanston, IL, USA
+      year: 2021
+    - title: BS in Electrical Engineering with Math minor, Honors College
+      institution: Purdue University, West Lafayette, IN, USA
+      year: 2017
+
 
 - title: Experience
   type: time_table
