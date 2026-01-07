@@ -82,7 +82,17 @@
       year: 2016
       description:
         - Presented comprehensive report on preemptive wildlife mitigation methods to administrators to prevent outages.
-        
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Doctoral Researcher
+      institution: Northwestern University, Evanston, IL, USA
+      year: 2019-present
+    - title: Coding Challenges
+    - title: Data Science Intern
+      company: FAME Computer Vision Systems
+
 - title: Open Source Projects
   type: time_table
   contents:
