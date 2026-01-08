@@ -131,6 +131,7 @@
     - title: Kaggle Ariel Satellite Image Analysis Challenge
       year: 2025
       description:
+        - Silver Medal Solution
         - Developed image processing and machine learning models to recover exoplanet atmospheric spectra from noisy simulated data for ESA’s upcoming Ariel mission.
     - title: "1M-Deepfakes Detection Challenge"
       year: 2024-2025
@@ -150,30 +151,40 @@
         - Investigated methods for efficiently removing data from trained models, contributing to research on data privacy and model interpretability.
         - Designed a variety of combination loss functions and model averaging to improve score.
 
-- title: Honors and Awards
-  type: time_table
+skills:
+  type: list_groups
   contents:
-    - year: 1921
+    - title: Data Processing
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - TensorFlow
+        - PyTorch
+        - Keras
+        - Scikit-learn
+        - NumPy
+        - Pandas
+        - NiBabel
+        - Matplotlib
+        - Seaborn
+        - Plotly
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+    - title: Science Communication
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Trained in science writing and communication through graduate-level courses
+        - De-jargonizing complex concepts
+        - Interviewing
+        - Social media engagement
+        - Editorial techniques
+        - Data visualization
 
-- title: Other Interests
-  type: list
+interests:
+  type: list_groups
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Sports
+      items:
+        - Member of The Purple Line, Northwestern University's competitive synchro skating team (2019-2023)
+
+    - title: Language and Art
+      items:
+        - Basic knowledge of French, Italian, Mandarin, and Japanese
+        - TEFL Certification
+        - Digital artist
