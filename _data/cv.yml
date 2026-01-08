@@ -88,24 +88,49 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Doctoral Researcher
+    - title: Deepfake Detection Projects
+      institution: Northwestern University, Evanston, IL, USA
+      year: 2021-present
+      items:
+        - Designed models, features, and a proof-of-concept dataset for deepfake detection tasks including detecting manipulated video segments and detecting identity from facial keypoint movements irrespective of visual features.
+        -	Analyzed methods of image manipulation such as copy/paste, warping, and blur; methods to detect manipulation including noise analysis, error level analysis, Fourier transform analysis, and photo response non-uniformity; and evaluated their effectiveness on degraded images to provide insights into the robustness of detection models.
+    - title: Multi-Modal MRI Segmentation Projects
+      institution: Northwestern University, Evanston, IL, USA
+      year: 2021-2024
+      items:
+        -	Designed convolutional neural network, pre-processing pipeline, feature extraction, customized loss functions, and sampling schemes to maximize the utility of a richly annotated and extremely imbalanced medical imaging dataset to improve performance of automated lesion segmentation enhancing medical imaging analysis.
+    - title: Solitaire Solver and Unwinnable State Detection
       institution: Northwestern University, Evanston, IL, USA
       year: 2019-present
       items:
-        - Deepfake Detection Projects
-        - Multi-Modal MRI Segmentation Projects
-        - Solitaire Solver and Unwinnable State Detection
-        - 3d Ant Bivouac Growth Modeler
-    - title: Coding Challenges
+        -	"Analyzed the performance of various tree traversal algorithms in solitaire solvers and developed custom heuristic tree traversal algorithms to optimize solution paths. Trained machine learning models to classify unsolvable states in solitaire games, enhancing the solver's efficiency by identifying unwinnable scenarios early in the game."
+    - title: 3d Ant Bivouac Growth Modeler
+      institution: Northwestern University, Evanston, IL, USA
+      year: 2020
+      items:
+        - Designed a 3D convolutional neural network to interpolate the growth of a 3D scanned ant bivouac structure.
     - title: Data Science Intern
-      company: FAME Computer Vision Systems
+      institution: FAME Computer Vision Systems
+      year: 2022-2023
+      items:
+        - Developed and tested app for correcting human movement using computer vision methods.
+    - title: "Copernican Scholar’s Honors Exchange Program at the Scuola Galileiana"
+      institution: University of Padova, Padova, Italy
+      year: 2016
+      items:
+        - Created MATLAB visual immersive system from fisheye lens images to explore sites without specialized equipment.
+    - title: Research Intern
+      institution: Purdue University, West Lafayette, Indiana
+      year: 2015
+      items:
+        -	Created a view factor simulation in MATLAB to maximize emission efficiency of angle-restricted emitter technology.
 
-- title: Open Source Projects
+- title: Coding Challenges
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Kaggle Ariel Satellite Image Analysis Challenge
+      year: 2025
+      description: -	Developed image processing and machine learning models to recover exoplanet atmospheric spectra from noisy simulated data for ESA’s upcoming Ariel mission.
 
 - title: Honors and Awards
   type: time_table
