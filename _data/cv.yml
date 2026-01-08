@@ -168,7 +168,7 @@
         - Designed a variety of combination loss functions and model averaging to improve score.
 
 - title: Skills and Interests
-  type: time_table
+  type: nested_list
   contents:
     - title: Deep Learning Pipeline Development
       description:
