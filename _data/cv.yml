@@ -154,9 +154,12 @@
 - title: Skills and Interests
   type: list
   contents:
-    - <u>Data Processing:</u> TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, NiBabel, Matplotlib, Seaborn, Plotly
+    - <u>Deep Learning Frameworks:</u> TensorFlow, PyTorch, Keras
+    - <u>Data Processing:</u> Scikit-learn, NumPy, Pandas, NiBabel
+    - <u>Visualization Tools:</u> Matplotlib, Seaborn, Plotly, Tableau
     - <u>Science Communication:</u> Trained in science writing and communication through graduate-level courses, with skills in de-jargonizing complex concepts, interviewing, social media engagement, editorial techniques, and data visualization.
-    - <u>Language and Art:</u> Basic knowledge of French, Italian, Mandarin, and Japanese; TEFL Certification; Digital artist
+    - <u>Language Skills:</u> Basic knowledge of French, Italian, Mandarin, and Japanese; TEFL Certification
+    - <u>Art Skills:</u> Digital Art, Digital Photography, Video Editing, Digital Image Editing
 
 - title: Extracurricular Experience
   type: time_table
@@ -166,3 +169,16 @@
       description:
         - Member of The Purple Line, Northwestern University’s competitive synchro skating team
         - 3rd place 2023 Tri States Synchronized Skating Competition, Open Collegiate Synchronized
+    - title: Gingerbread Casas for CASA
+      year: 2017-2018
+      description:
+        - Participated in charity gingerbread house decorating event.
+        - "Best Theme – 2017, Best in Show - 2018"
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: NICO Data Science Fellowship 
+      year: 2019-2020
+    - title: IDEAS NSF Fellowship 
+      year: 2020-2021
