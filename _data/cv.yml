@@ -167,42 +167,30 @@
         - Investigated methods for efficiently removing data from trained models, contributing to research on data privacy and model interpretability.
         - Designed a variety of combination loss functions and model averaging to improve score.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
 - title: Skills and Interests
   type: nested_list
   contents:
     - title: Deep Learning Pipeline Development
-      description:
+      items:
         - Developing, training, and fine-tuning deep learning models
         - TensorFlow, PyTorch, Keras
     - title: Multi-media, Data, and Signals Processing
-      description:
+      items:
         - Dataset pre-processing and analysis across diverse data modalities
         - Scikit-learn, NumPy, Pandas, NiBabel
     - title: Visualization Tools
-      description:
+      items:
         - Comprehensive analysis and visualization of dataset and research results
         - Matplotlib, Seaborn, Plotly, Tableau
     - title: Science Communication
-      description:
+      items:
         - Trained in science writing and communication through graduate-level courses, with skills in de-jargonizing complex concepts, interviewing, social media engagement, editorial techniques, and data visualization.
     - title: Language Skills
-      description:
+      items:
         - Basic knowledge of French, Italian, Mandarin, and Japanese
         - TEFL Certification
     - title: Art Skills
-      description:
+      items:
         - Digital Art, Digital Photography, Video Editing, Digital Image Editing
         - Machine embroidery and embroidery digital design
 
