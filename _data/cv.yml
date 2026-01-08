@@ -167,6 +167,18 @@
         - Investigated methods for efficiently removing data from trained models, contributing to research on data privacy and model interpretability.
         - Designed a variety of combination loss functions and model averaging to improve score.
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+        
 - title: Skills and Interests
   type: nested_list
   contents:
