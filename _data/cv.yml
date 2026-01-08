@@ -151,40 +151,19 @@
         - Investigated methods for efficiently removing data from trained models, contributing to research on data privacy and model interpretability.
         - Designed a variety of combination loss functions and model averaging to improve score.
 
-- title: skills:
+- title: Academic Interests
   type: nested_list
   contents:
-    - title: Data Processing
+    - title: Topic 1.
       items:
-        - TensorFlow
-        - PyTorch
-        - Keras
-        - Scikit-learn
-        - NumPy
-        - Pandas
-        - NiBabel
-        - Matplotlib
-        - Seaborn
-        - Plotly
-
-    - title: Science Communication
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
       items:
-        - Trained in science writing and communication through graduate-level courses
-        - De-jargonizing complex concepts
-        - Interviewing
-        - Social media engagement
-        - Editorial techniques
-        - Data visualization
+        - Description 1.
+        - Description 2.
 
-- title: interests:
-  type: nested_list
+- title: Other Interests
+  type: list
   contents:
-    - title: Sports
-      items:
-        - "Member of The Purple Line, Northwestern University's competitive synchro skating team (2019-2023)"
-
-    - title: Language and Art
-      items:
-        - Basic knowledge of French, Italian, Mandarin, and Japanese
-        - TEFL Certification
-        - Digital artist
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
