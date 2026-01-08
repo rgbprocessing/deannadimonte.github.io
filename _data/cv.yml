@@ -130,7 +130,8 @@
   contents:
     - title: Kaggle Ariel Satellite Image Analysis Challenge
       year: 2025
-      description: -	Developed image processing and machine learning models to recover exoplanet atmospheric spectra from noisy simulated data for ESA’s upcoming Ariel mission.
+      description: 
+        - Developed image processing and machine learning models to recover exoplanet atmospheric spectra from noisy simulated data for ESA’s upcoming Ariel mission.
 
 - title: Honors and Awards
   type: time_table
