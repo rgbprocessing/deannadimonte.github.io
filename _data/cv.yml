@@ -152,7 +152,7 @@
         - Designed a variety of combination loss functions and model averaging to improve score.
 
 - title: skills:
-  type: list_groups
+  type: nested_list
   contents:
     - title: Data Processing
       items:
@@ -177,11 +177,11 @@
         - Data visualization
 
 - title: interests:
-  type: list_groups
+  type: nested_list
   contents:
     - title: Sports
       items:
-        - Member of The Purple Line, Northwestern University's competitive synchro skating team (2019-2023)
+        - "Member of The Purple Line, Northwestern University's competitive synchro skating team (2019-2023)"
 
     - title: Language and Art
       items:
